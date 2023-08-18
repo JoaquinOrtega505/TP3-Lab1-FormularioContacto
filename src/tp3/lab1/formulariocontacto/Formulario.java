@@ -109,7 +109,7 @@ public class Formulario extends javax.swing.JFrame {
         String correo = jTcorreo.getText();
         String clave = jTclave.getText();
         if (correo.equals("alumno@ulp.edu.ar") && clave.equals("12345678")){
-        JOptionPane.showMessageDialog(this, "Bienvenida/o a la ULP, donde nada puede malir sal " + correo);
+        JOptionPane.showMessageDialog(this, "Bienvenida/o a la ULP, donde nada puede malir sal ");
         
        
     }
